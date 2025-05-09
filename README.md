@@ -1,60 +1,76 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Nitesh Dagiya</h1>
-<h3 align="center">Aspiring Java Full Stack Developer | Backend Developer Intern @ Softqube Technologies</h3>
+<h3 align="center">Java Full Stack Developer | Backend Developer Intern @ Softqube Technologies</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Java+%7C+Spring+Boot+%7C+Django+Developer;Open+Source+Enthusiast+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Enterprise+Java+Developer;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Clean+Code+Enthusiast+%7C+Design+Patterns" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 - 🎓 Pursuing **MCA** from *B.H. Gardi College of Engineering & Technology*
-- 🧠 Passionate about Backend Development & Clean Code
-- 🔧 Strong knowledge of **Java**, **Spring Boot**, **Python**, **Django**, and **SQL**
-- 📚 Trained in Python by *Institute of Advanced Research*
-- 🌱 Currently learning **Cloud (AWS)** and **DevOps Tools**
+- ☕ Java specialist with strong focus on enterprise application development
+- 🔧 Expertise in **Spring Boot**, **Spring MVC**, **JPA/Hibernate**, and **RESTful APIs**
+- 🏗️ Experience with microservices architecture and distributed systems
+- 🌱 Currently expanding skills in **AWS Cloud** and **CI/CD pipelines**
 
 ---
 
 ### 🚀 My Tech Stack
 
-#### 👨‍💻 Languages:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-#### 🧰 Frameworks & Tools:
+#### Core Java & JVM Technologies:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+#### Databases & Storage:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### Additional Technologies:
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+#### Development Tools:
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
-### 🧑‍💼 My Projects
+### 🧑‍💼 Featured Java Projects
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| 🛒 **The E-Market** | Spring Boot, Thymeleaf, MySQL | E-commerce site with product search and COD |
-| 🧾 **Retail Management System** | Python (Tkinter) | Desktop billing and inventory software |
-| 🚚 **Couriex.com** | Java, Spring Boot, MySQL | Backend services for courier management |
+| 🛒 **The NioMart** | Spring Boot, Thymeleaf, JPA, MySQL | E-commerce platform with RESTful APIs, Spring Security, and microservices architecture |
+| 📦 **Inventory Service** | Spring Boot, Spring Data, Docker | Microservice for inventory management with caching and event-driven updates |
+| 🔐 **Auth Service** | Spring Security, JWT, OAuth2 | Centralized authentication service with JWT token management and role-based access control |
 
 ---
 
-### 💻 GitHub Stats & Activity
+### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NiteshDagiya&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NiteshDagiya&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NiteshDagiya&theme=react-dark&bg_color=0D1117" alt="activity graph"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NiteshDagiya&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NiteshDagiya&layout=compact&langs_count=8&theme=radical"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiteshDagiya&theme=radical" alt="NiteshDagiya's streak"/>
+</div>
+<!-- Note: GitHub contribution graph may require alternative solutions as some services have been discontinued -->
 
 ---
 
@@ -62,7 +78,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/niteshdagiya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -70,19 +86,23 @@
   <a href="https://your-portfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  <a href="https://stackoverflow.com/users/youruserid">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### ⚡ Fun Facts
-- 🎯 Strong logical & analytical skills  
-- 🏋️ Love health & fitness  
-- 🎧 Music is my escape  
-- 🤝 Always open to learning and collaboration  
+### ⚡ Professional Strengths
+
+- 🏗️ Deep understanding of Object-Oriented Design and SOLID principles
+- 🔄 Experience with CI/CD pipelines and DevOps practices
+- 🧪 Strong advocate for Test-Driven Development (TDD)
+- 🔍 Performance optimization and JVM tuning
+- 🤝 Collaborative team player with excellent communication skills
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=120&section=footer"/>
 </p>
-
