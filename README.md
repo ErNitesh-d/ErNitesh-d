@@ -64,32 +64,29 @@
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NiteshDagiya&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NiteshDagiya&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErNitesh-d&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiteshDagiya&theme=radical" alt="NiteshDagiya's streak"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErNitesh-d&theme=radical" alt="GitHub Streak"/>
 </div>
-<!-- Note: GitHub contribution graph may require alternative solutions as some services have been discontinued -->
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErNitesh-d&layout=compact&theme=radical" alt="Most Used Languages"/>
+</div>
 ---
 
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/niteshdagiya" target="_blank">
+  <a href="https://www.linkedin.com/in/dagiyanitesh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.nitinkhatri9898@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://nitesh-dagiya.my.canva.site/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/youruserid">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  </a>
-</p>
+  </p>
 
 ---
 
