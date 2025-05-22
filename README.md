@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Pursuing **MCA** from *B.H. Gardi College of Engineering & Technology*
+- 🎓 completed **MCA** from *B.H. Gardi College of Engineering & Technology*
 - ☕ Java specialist with strong focus on enterprise application development
 - 🔧 Expertise in **Spring Boot**, **Spring MVC**, **JPA/Hibernate**, and **RESTful APIs**
 - 🏗️ Experience with microservices architecture and distributed systems
