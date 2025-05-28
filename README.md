@@ -55,7 +55,7 @@
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| 🏥 ** HealthPlus** | SSpring Boot, Spring Cloud, Eureka, Gateway, Feign | Microservices-based healthcare management system with service discovery, API gateway, and inter-service communication |
+| 🏥 **HealthPlus** | SSpring Boot, Spring Cloud, Eureka, Gateway, Feign | Microservices-based healthcare management system with service discovery, API gateway, and inter-service communication |
 | 🛒 **The NioMart** | Spring Boot, Thymeleaf, JPA, MySQL | E-commerce platform with RESTful APIs, Spring Security, MySQL, ElasticSearch |
 | 📦 **Inventory Service** | Spring Boot, Spring Data, Docker | Microservice for inventory management with caching and event-driven updates |
 | 🔐 **Auth Service** | Spring Security, JWT, OAuth2 | Centralized authentication service with JWT token management and role-based access control |
