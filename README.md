@@ -3,8 +3,10 @@
 <h3 align="center">Java Full Stack Developer | Java Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Enterprise+Java+Developer;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Clean+Code+Enthusiast+%7C+Design+Patterns" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Enterprise+Java+Developer;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Clean+Code+Enthusiast+%7C+Design+Patterns" alt="Typing SVG" />
 </p>
+
+
 
 
 ---
